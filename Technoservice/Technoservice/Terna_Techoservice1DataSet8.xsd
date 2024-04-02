@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Terna_Techoservice1DataSet8" targetNamespace="http://tempuri.org/Terna_Techoservice1DataSet8.xsd" xmlns:mstns="http://tempuri.org/Terna_Techoservice1DataSet8.xsd" xmlns="http://tempuri.org/Terna_Techoservice1DataSet8.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Terna_Techoservice1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Terna_Techoservice1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Technoservice.Properties.Settings.GlobalReference.Default.Terna_Techoservice1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TroubleViewTableAdapter" GeneratorDataComponentClassName="TroubleViewTableAdapter" Name="TroubleView" UserDataComponentName="TroubleViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Terna_Techoservice1ConnectionString (Settings)" DbObjectName="Terna_Techoservice1.dbo.TroubleView" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT trouble_discription, [ФИО работника], Статус, [Дата заказа], [Дата выполнения] FROM dbo.TroubleView</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="trouble_discription" DataSetColumn="trouble_discription" />
+              <Mapping SourceColumn="ФИО работника" DataSetColumn="ФИО работника" />
+              <Mapping SourceColumn="Статус" DataSetColumn="Статус" />
+              <Mapping SourceColumn="Дата заказа" DataSetColumn="Дата заказа" />
+              <Mapping SourceColumn="Дата выполнения" DataSetColumn="Дата выполнения" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Terna_Techoservice1DataSet8" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="Terna_Techoservice1DataSet8" msprop:Generator_DataSetName="Terna_Techoservice1DataSet8">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TroubleView" msprop:Generator_RowEvHandlerName="TroubleViewRowChangeEventHandler" msprop:Generator_RowDeletedName="TroubleViewRowDeleted" msprop:Generator_RowDeletingName="TroubleViewRowDeleting" msprop:Generator_RowEvArgName="TroubleViewRowChangeEvent" msprop:Generator_TablePropName="TroubleView" msprop:Generator_RowChangedName="TroubleViewRowChanged" msprop:Generator_RowChangingName="TroubleViewRowChanging" msprop:Generator_TableClassName="TroubleViewDataTable" msprop:Generator_RowClassName="TroubleViewRow" msprop:Generator_TableVarName="tableTroubleView" msprop:Generator_UserTableName="TroubleView">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="trouble_discription" msprop:Generator_ColumnPropNameInRow="trouble_discription" msprop:Generator_ColumnPropNameInTable="trouble_discriptionColumn" msprop:Generator_ColumnVarNameInTable="columntrouble_discription" msprop:Generator_UserColumnName="trouble_discription">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ФИО_x0020_работника" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="ФИО_работника" msprop:Generator_ColumnPropNameInTable="ФИО_работникаColumn" msprop:Generator_ColumnVarNameInTable="columnФИО_работника" msprop:Generator_UserColumnName="ФИО работника" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="61" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Статус" msprop:Generator_ColumnPropNameInRow="Статус" msprop:Generator_ColumnPropNameInTable="СтатусColumn" msprop:Generator_ColumnVarNameInTable="columnСтатус" msprop:Generator_UserColumnName="Статус" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Дата_x0020_заказа" msprop:Generator_ColumnPropNameInRow="Дата_заказа" msprop:Generator_ColumnPropNameInTable="Дата_заказаColumn" msprop:Generator_ColumnVarNameInTable="columnДата_заказа" msprop:Generator_UserColumnName="Дата заказа" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Дата_x0020_выполнения" msprop:Generator_ColumnPropNameInRow="Дата_выполнения" msprop:Generator_ColumnPropNameInTable="Дата_выполненияColumn" msprop:Generator_ColumnVarNameInTable="columnДата_выполнения" msprop:Generator_UserColumnName="Дата выполнения" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

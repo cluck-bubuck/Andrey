@@ -1,0 +1,59 @@
+C:\Users\it-student\source\repos\Technoservice\Technoservice\bin\Debug\Technoservice.exe.config
+C:\Users\it-student\source\repos\Technoservice\Technoservice\bin\Debug\Technoservice.exe
+C:\Users\it-student\source\repos\Technoservice\Technoservice\bin\Debug\Technoservice.pdb
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.AssemblyReference.cache
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.logForm.resources
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.Properties.Resources.resources
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.RegForm.resources
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.GenerateResource.cache
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.CoreCompileInputs.cache
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.exe
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.pdb
+C:\Users\it-student\source\repos\Technoservice\Technoservice\obj\Debug\Technoservice.UserForm.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.exe.config
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.exe
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.pdb
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csprojResolveAssemblyReference.cache
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.logForm.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.ManagerForm.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.Properties.Resources.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.RegForm.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.UserForm.resources
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.GenerateResource.cache
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.CoreCompileInputs.cache
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.exe
+D:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.pdb
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.exe.config
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.exe
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Technoservice.pdb
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.AssemblyReference.cache
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.SuggestedBindingRedirects.cache
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.EmployeeForm.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.logForm.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.ManagerForm.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.Properties.Resources.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.UserForm.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.GenerateResource.cache
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.CoreCompileInputs.cache
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.exe
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.pdb
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\QRCoder.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.QrForm.resources
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.csproj.CopyComplete
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\EPPlus.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\EPPlus.Interfaces.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\EPPlus.System.Drawing.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Buffers.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Memory.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Numerics.Vectors.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\EPPlus.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Buffers.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Memory.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Numerics.Vectors.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Практика Шульга Шляпкин\Technoservice\Technoservice\obj\Debug\Technoservice.ReportForm.resources
